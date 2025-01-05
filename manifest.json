@@ -4,7 +4,9 @@
   "version": "1.0",
   "manifest_version": 3,
   "action": {
-    "default_popup": "hello.html",
     "default_icon": "perfectCookie.png"
+    "default_popup": "hello.html",
+    "default_popup_width": 300,
+    "default_popup_heigth": 200
   }
 }
